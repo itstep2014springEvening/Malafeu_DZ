@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1406007236 source:c:\users\1\desktop\math_funct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mymath.h"
+
+1406007759 source:c:\users\1\desktop\math_funct\mymath.c
+
+1406007727 c:\users\1\desktop\math_funct\mymath.h
+
+1406008672 source:c:\users\1\desktop\git2\dz13-14\math_funct\mymath.c
+
+1406008611 source:c:\users\1\desktop\git2\dz13-14\math_funct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mymath.h"
+
+1406007727 c:\users\1\desktop\git2\dz13-14\math_funct\mymath.h
+

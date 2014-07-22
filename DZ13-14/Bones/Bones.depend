@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1406027913 source:c:\users\1\desktop\bones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1406026961 source:c:\users\1\desktop\bones\mysource.c
+
